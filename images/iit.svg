@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="110px" viewBox="0 0 138 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>IiT</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IiT">
+            <rect id="Rectangle" fill="#BD10E0" x="0" y="0" width="138" height="110" rx="10"></rect>
+            <g id="IT" transform="translate(9.000000, 3.000000)">
+                <path d="M68,13.0100011 L68,63 C68,75.1502645 77.8497355,85 90,85 L116,85 L116,62 C116,35.2721722 94.6003321,13.5425047 68,13.0100011 Z" id="Rectangle" stroke="#00F7E7" stroke-width="10"></path>
+                <text id="i" font-family="Roboto-Black, Roboto" font-size="42" font-weight="700" fill="#FFFFFF">
+                    <tspan x="23" y="73">i</tspan>
+                </text>
+                <text id="t" font-family="Roboto-Black, Roboto" font-size="42" font-weight="700" fill="#FFFFFF">
+                    <tspan x="84" y="73">t</tspan>
+                </text>
+                <path d="M5,13.0100011 L5,63 C5,75.1502645 14.8497355,85 27,85 L53,85 L53,62 C53,35.2721722 31.6003321,13.5425047 5,13.0100011 Z" id="Rectangle" stroke="#00F7E7" stroke-width="10" transform="translate(29.000000, 49.000000) scale(-1, 1) translate(-29.000000, -49.000000) "></path>
+                <path d="M32,33.5 C41.3333333,28.5 50.75,26 60.25,26 C69.75,26 79.1666667,28.5 88.5,33.5" id="Path-2" stroke="#00F7E7" stroke-width="10" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
